@@ -1,17 +1,23 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
+An expense tracker , tracking weekly , monthly and yearly.User can sign up and maintain his own profile page .
 ## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
+
 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+User can sign up and maintain his own record of expenses in different areas.Expenses will be shown in numbers and using charts.
+Would like to add the feature of "giving notifications if expense gets more than a limit".User can decide what can be the limit for
+different things weekly or monthly.
 ### Features
-Include Features here
+*User profile page
+*charts description
+*suggestions
+
 ### Technologies
-Include Technologies here
+*python
+*SQL
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn how to generate charts from database .
